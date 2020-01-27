@@ -13,7 +13,7 @@ Using this simulated signal, an initial object was set on initial range of 110m 
 The next steps are the computation of range and velocity in real time of the target object. For this purpose, the following algorithms will be implemented during this project:
 * FFT (Fast fourier transform): computation of range in real time
 * 2D FFT: computation of range doppler map
-* 2D CFAR: noise filtering to find the object peak velocity 
+* 2D CFAR: noise filtering to find the object velocity 
 
 The pipeline can be summed up in the following description:
 
